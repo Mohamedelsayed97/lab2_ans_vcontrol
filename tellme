@@ -5,3 +5,19 @@ git push origin :test
  To delete a local branch
 git branch -d dev
 git branch -d test 
+
+
+Tell me how to list tags.
+
+ans : git tag 
+
+
+
+● Tell me how to delete tag locally and remotely.
+
+To delete remote tag
+git push origin --delete v1.7
+
+● To delete local tags
+git tag -d v1.7
+
