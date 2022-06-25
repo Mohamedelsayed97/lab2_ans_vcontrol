@@ -1,0 +1,11 @@
+  
+  extentions files will ignore it 
+  **/logs/debug.log
+
+
+
+  command to add force 
+  git add -f debug.log
+
+ command  to commit ignore file 
+ git commit -m "Force adding debug.log"
